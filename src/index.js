@@ -1,3 +1,5 @@
 import { util } from './app'
+import './main.scss'
+
 console.log(`${util}`)
-alert('Hello, webpack!')
+console.dir('Hello, webpack!')
